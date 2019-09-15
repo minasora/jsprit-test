@@ -1,0 +1,936 @@
+ s-cvrptw\C11010 
+运行时间:320564ms[costs=72870.41065444259][routes=107] 
+ s-cvrptw\C110_1 
+运行时间:313931ms[costs=45233.99627337251][routes=105] 
+ s-cvrptw\C110_2 
+运行时间:293618ms[costs=53786.77852473245][routes=106] 
+ s-cvrptw\C110_3 
+运行时间:276851ms[costs=59770.157270235446][routes=93] 
+ s-cvrptw\C110_4 
+运行时间:278249ms[costs=59401.76637939251][routes=95] 
+ s-cvrptw\C110_5 
+运行时间:396375ms[costs=66236.13694522681][routes=142] 
+ s-cvrptw\C110_6 
+运行时间:432999ms[costs=69063.66162144739][routes=140] 
+ s-cvrptw\C110_7 
+运行时间:395408ms[costs=63969.38887695688][routes=133] 
+ s-cvrptw\C110_8 
+运行时间:415383ms[costs=67177.1540947934][routes=134] 
+ s-cvrptw\C110_9 
+运行时间:362063ms[costs=69620.41230877083][routes=123] 
+ s-cvrptw\C1_210 
+运行时间:13061ms[costs=3208.0269489691855][routes=20] 
+ s-cvrptw\C1_2_1 
+运行时间:11372ms[costs=2811.857235883552][routes=20] 
+ s-cvrptw\C1_2_2 
+运行时间:11374ms[costs=3164.3848675244226][routes=20] 
+ s-cvrptw\C1_2_3 
+运行时间:12652ms[costs=3119.156114370684][routes=22] 
+ s-cvrptw\C1_2_4 
+运行时间:11768ms[costs=3148.4974112327022][routes=19] 
+ s-cvrptw\C1_2_5 
+运行时间:12235ms[costs=2865.2363333562466][routes=21] 
+ s-cvrptw\C1_2_6 
+运行时间:12426ms[costs=3265.869447357428][routes=23] 
+ s-cvrptw\C1_2_7 
+运行时间:12783ms[costs=3161.3866729919782][routes=22] 
+ s-cvrptw\C1_2_8 
+运行时间:13092ms[costs=3016.2985905890628][routes=22] 
+ s-cvrptw\C1_2_9 
+运行时间:12926ms[costs=3372.6285520790907][routes=21] 
+ s-cvrptw\C1_410 
+运行时间:52127ms[costs=10016.885168084069][routes=44] 
+ s-cvrptw\C1_4_1 
+运行时间:46023ms[costs=8336.60834378064][routes=44] 
+ s-cvrptw\C1_4_2 
+运行时间:43144ms[costs=9023.699007670793][routes=41] 
+ s-cvrptw\C1_4_3 
+运行时间:40745ms[costs=10600.03386996258][routes=39] 
+ s-cvrptw\C1_4_4 
+运行时间:39076ms[costs=9946.900409641574][routes=37] 
+ s-cvrptw\C1_4_5 
+运行时间:50958ms[costs=9164.884698598256][routes=48] 
+ s-cvrptw\C1_4_6 
+运行时间:52040ms[costs=9533.288558587054][routes=48] 
+ s-cvrptw\C1_4_7 
+运行时间:50801ms[costs=9426.361923020082][routes=46] 
+ s-cvrptw\C1_4_8 
+运行时间:50605ms[costs=9900.247892041161][routes=47] 
+ s-cvrptw\C1_4_9 
+运行时间:51202ms[costs=10377.527418930065][routes=44] 
+ s-cvrptw\C1_610 
+运行时间:106993ms[costs=23332.14676192147][routes=62] 
+ s-cvrptw\C1_6_1 
+运行时间:100083ms[costs=14095.643766078396][routes=60] 
+ s-cvrptw\C1_6_2 
+运行时间:108354ms[costs=21895.544697169626][routes=66] 
+ s-cvrptw\C1_6_3 
+运行时间:102434ms[costs=22136.140033810698][routes=61] 
+ s-cvrptw\C1_6_4 
+运行时间:107940ms[costs=20052.061559285678][routes=60] 
+ s-cvrptw\C1_6_5 
+运行时间:124196ms[costs=22906.328587665183][routes=79] 
+ s-cvrptw\C1_6_6 
+运行时间:121652ms[costs=21566.255289644694][routes=78] 
+ s-cvrptw\C1_6_7 
+运行时间:110624ms[costs=24712.285509180754][routes=74] 
+ s-cvrptw\C1_6_8 
+运行时间:114469ms[costs=24982.636458672685][routes=73] 
+ s-cvrptw\C1_6_9 
+运行时间:104921ms[costs=23345.92913229434][routes=62] 
+ s-cvrptw\C1_810 
+运行时间:220745ms[costs=44908.00609716205][routes=87] 
+ s-cvrptw\C1_8_1 
+运行时间:198222ms[costs=25184.382633716625][routes=80] 
+ s-cvrptw\C1_8_2 
+运行时间:189227ms[costs=30885.721886435378][routes=80] 
+ s-cvrptw\C1_8_3 
+运行时间:162507ms[costs=34653.68868329167][routes=78] 
+ s-cvrptw\C1_8_4 
+运行时间:164167ms[costs=35328.50263011769][routes=75] 
+ s-cvrptw\C1_8_5 
+运行时间:236016ms[costs=41898.53109976154][routes=109] 
+ s-cvrptw\C1_8_6 
+运行时间:237309ms[costs=41179.035487788984][routes=107] 
+ s-cvrptw\C1_8_7 
+运行时间:220043ms[costs=39876.64108673404][routes=103] 
+ s-cvrptw\C1_8_8 
+运行时间:210102ms[costs=39688.988294144605][routes=102] 
+ s-cvrptw\C1_8_9 
+运行时间:200343ms[costs=42767.45887285828][routes=95] 
+ s-cvrptw\C21010 
+运行时间:241751ms[costs=28875.62083876365][routes=33] 
+ s-cvrptw\C210_1 
+运行时间:209701ms[costs=21839.24875873899][routes=42] 
+ s-cvrptw\C210_2 
+运行时间:255549ms[costs=23481.123758803322][routes=41] 
+ s-cvrptw\C210_3 
+运行时间:293097ms[costs=24723.734901499494][routes=39] 
+ s-cvrptw\C210_4 
+运行时间:309561ms[costs=22864.362060258827][routes=36] 
+ s-cvrptw\C210_5 
+运行时间:221248ms[costs=29822.084513677288][routes=37] 
+ s-cvrptw\C210_6 
+运行时间:225214ms[costs=28501.93726747854][routes=35] 
+ s-cvrptw\C210_7 
+运行时间:251865ms[costs=24338.330849799495][routes=42] 
+ s-cvrptw\C210_8 
+运行时间:244004ms[costs=31280.46841936229][routes=37] 
+ s-cvrptw\C210_9 
+运行时间:261183ms[costs=25050.399388398106][routes=40] 
+ s-cvrptw\C2_210 
+运行时间:11162ms[costs=1892.1778316174543][routes=7] 
+ s-cvrptw\C2_2_1 
+运行时间:9429ms[costs=1953.8362059923306][routes=7] 
+ s-cvrptw\C2_2_2 
+运行时间:10306ms[costs=1943.1529664025757][routes=6] 
+ s-cvrptw\C2_2_3 
+运行时间:11414ms[costs=1977.3259675097302][routes=8] 
+ s-cvrptw\C2_2_4 
+运行时间:12509ms[costs=1822.4979586890167][routes=7] 
+ s-cvrptw\C2_2_5 
+运行时间:9934ms[costs=1983.2821186811063][routes=8] 
+ s-cvrptw\C2_2_6 
+运行时间:10261ms[costs=1881.2943265074923][routes=7] 
+ s-cvrptw\C2_2_7 
+运行时间:10440ms[costs=1957.6513530851414][routes=7] 
+ s-cvrptw\C2_2_8 
+运行时间:10604ms[costs=1881.0231753394503][routes=7] 
+ s-cvrptw\C2_2_9 
+运行时间:11173ms[costs=1881.3593136719355][routes=7] 
+ s-cvrptw\C2_410 
+运行时间:40541ms[costs=5331.483634787343][routes=13] 
+ s-cvrptw\C2_4_1 
+运行时间:34876ms[costs=4634.846260543872][routes=15] 
+ s-cvrptw\C2_4_2 
+运行时间:40780ms[costs=4660.992183325697][routes=15] 
+ s-cvrptw\C2_4_3 
+运行时间:45967ms[costs=4711.710164130601][routes=15] 
+ s-cvrptw\C2_4_4 
+运行时间:48294ms[costs=4009.7769604608607][routes=14] 
+ s-cvrptw\C2_4_5 
+运行时间:36630ms[costs=4572.714606363879][routes=15] 
+ s-cvrptw\C2_4_6 
+运行时间:38052ms[costs=4677.189143309211][routes=15] 
+ s-cvrptw\C2_4_7 
+运行时间:38812ms[costs=4767.052327060664][routes=16] 
+ s-cvrptw\C2_4_8 
+运行时间:37780ms[costs=4774.7699662797795][routes=14] 
+ s-cvrptw\C2_4_9 
+运行时间:40348ms[costs=4683.139712234643][routes=15] 
+ s-cvrptw\C2_610 
+运行时间:91884ms[costs=9433.051653974588][routes=22] 
+ s-cvrptw\C2_6_1 
+运行时间:74341ms[costs=8575.020698709963][routes=22] 
+ s-cvrptw\C2_6_2 
+运行时间:88726ms[costs=9127.120698502376][routes=23] 
+ s-cvrptw\C2_6_3 
+运行时间:103341ms[costs=8955.700158831747][routes=23] 
+ s-cvrptw\C2_6_4 
+运行时间:107583ms[costs=8556.088851256382][routes=22] 
+ s-cvrptw\C2_6_5 
+运行时间:83337ms[costs=9412.044494078655][routes=23] 
+ s-cvrptw\C2_6_6 
+运行时间:93334ms[costs=9538.498490477199][routes=23] 
+ s-cvrptw\C2_6_7 
+运行时间:88788ms[costs=9430.655325525895][routes=24] 
+ s-cvrptw\C2_6_8 
+运行时间:83974ms[costs=11173.881899687822][routes=20] 
+ s-cvrptw\C2_6_9 
+运行时间:92228ms[costs=9692.653830477773][routes=23] 
+ s-cvrptw\C2_810 
+运行时间:163062ms[costs=19587.773719978028][routes=29] 
+ s-cvrptw\C2_8_1 
+运行时间:146169ms[costs=15094.626982695927][routes=31] 
+ s-cvrptw\C2_8_2 
+运行时间:171061ms[costs=15666.56203544386][routes=33] 
+ s-cvrptw\C2_8_3 
+运行时间:193733ms[costs=15471.456276282137][routes=30] 
+ s-cvrptw\C2_8_4 
+运行时间:197232ms[costs=14738.599860684211][routes=28] 
+ s-cvrptw\C2_8_5 
+运行时间:147833ms[costs=16692.423738387308][routes=32] 
+ s-cvrptw\C2_8_6 
+运行时间:156225ms[costs=16605.15632697558][routes=32] 
+ s-cvrptw\C2_8_7 
+运行时间:160208ms[costs=16383.82018927031][routes=33] 
+ s-cvrptw\C2_8_8 
+运行时间:145997ms[costs=19519.078365546844][routes=28] 
+ s-cvrptw\C2_8_9 
+运行时间:162027ms[costs=16144.40993951564][routes=33] 
+ s-cvrptw\R11010 
+运行时间:179591ms[costs=62413.21464248112][routes=96] 
+ s-cvrptw\R110_1 
+运行时间:229279ms[costs=72215.40711081693][routes=121] 
+ s-cvrptw\R110_2 
+运行时间:205339ms[costs=67121.46755259605][routes=103] 
+ s-cvrptw\R110_3 
+运行时间:184104ms[costs=63494.08237471992][routes=93] 
+ s-cvrptw\R110_4 
+运行时间:172546ms[costs=60392.94493832532][routes=92] 
+ s-cvrptw\R110_5 
+运行时间:186780ms[costs=66810.02955049882][routes=99] 
+ s-cvrptw\R110_6 
+运行时间:197450ms[costs=62076.8578748609][routes=96] 
+ s-cvrptw\R110_7 
+运行时间:174902ms[costs=64623.0596570608][routes=91] 
+ s-cvrptw\R110_8 
+运行时间:184664ms[costs=62069.29761825431][routes=92] 
+ s-cvrptw\R110_9 
+运行时间:162863ms[costs=72650.8737972124][routes=97] 
+ s-cvrptw\R1_210 
+运行时间:9169ms[costs=3871.1149604156485][routes=19] 
+ s-cvrptw\R1_2_1 
+运行时间:11716ms[costs=5252.1447691988815][routes=24] 
+ s-cvrptw\R1_2_2 
+运行时间:11522ms[costs=4615.1974253359185][routes=22] 
+ s-cvrptw\R1_2_3 
+运行时间:10661ms[costs=4172.110535926301][routes=19] 
+ s-cvrptw\R1_2_4 
+运行时间:10974ms[costs=3414.655443323948][routes=19] 
+ s-cvrptw\R1_2_5 
+运行时间:9779ms[costs=4943.250128221702][routes=20] 
+ s-cvrptw\R1_2_6 
+运行时间:10968ms[costs=4201.451191222268][routes=20] 
+ s-cvrptw\R1_2_7 
+运行时间:9332ms[costs=3843.141095672638][routes=19] 
+ s-cvrptw\R1_2_8 
+运行时间:10635ms[costs=3437.34860444807][routes=19] 
+ s-cvrptw\R1_2_9 
+运行时间:10375ms[costs=4302.345176189707][routes=20] 
+ s-cvrptw\R1_410 
+运行时间:36299ms[costs=10012.281462255902][routes=38] 
+ s-cvrptw\R1_4_1 
+运行时间:41201ms[costs=12885.279393461127][routes=43] 
+ s-cvrptw\R1_4_2 
+运行时间:34459ms[costs=11941.987338779423][routes=37] 
+ s-cvrptw\R1_4_3 
+运行时间:38907ms[costs=10124.37282216688][routes=40] 
+ s-cvrptw\R1_4_4 
+运行时间:32830ms[costs=9862.045384208552][routes=36] 
+ s-cvrptw\R1_4_5 
+运行时间:37846ms[costs=11139.96097875649][routes=41] 
+ s-cvrptw\R1_4_6 
+运行时间:38108ms[costs=10410.775506611608][routes=40] 
+ s-cvrptw\R1_4_7 
+运行时间:37126ms[costs=9697.255584889816][routes=39] 
+ s-cvrptw\R1_4_8 
+运行时间:32806ms[costs=10074.348539244425][routes=36] 
+ s-cvrptw\R1_4_9 
+运行时间:35503ms[costs=11026.81573777324][routes=39] 
+ s-cvrptw\R1_610 
+运行时间:68117ms[costs=22642.938550589202][routes=57] 
+ s-cvrptw\R1_6_1 
+运行时间:83157ms[costs=27290.367953782155][routes=64] 
+ s-cvrptw\R1_6_2 
+运行时间:73175ms[costs=25919.87370561487][routes=57] 
+ s-cvrptw\R1_6_3 
+运行时间:71843ms[costs=23883.595286168][routes=57] 
+ s-cvrptw\R1_6_4 
+运行时间:77870ms[costs=21529.544573649164][routes=54] 
+ s-cvrptw\R1_6_5 
+运行时间:85650ms[costs=25267.02700554385][routes=61] 
+ s-cvrptw\R1_6_6 
+运行时间:114003ms[costs=25430.117158473022][routes=57] 
+ s-cvrptw\R1_6_7 
+运行时间:118596ms[costs=21992.368913220434][routes=57] 
+ s-cvrptw\R1_6_8 
+运行时间:106899ms[costs=22790.44968110919][routes=54] 
+ s-cvrptw\R1_6_9 
+运行时间:111634ms[costs=24042.389196802782][routes=58] 
+ s-cvrptw\R1_810 
+运行时间:253804ms[costs=41107.48358346328][routes=74] 
+ s-cvrptw\R1_8_1 
+运行时间:494615ms[costs=47010.40256222998][routes=80] 
+ s-cvrptw\R1_8_2 
+运行时间:378910ms[costs=43807.91569959351][routes=73] 
+ s-cvrptw\R1_8_3 
+运行时间:394761ms[costs=40594.634748338656][routes=72] 
+ s-cvrptw\R1_8_4 
+运行时间:418452ms[costs=39528.19286207082][routes=72] 
+ s-cvrptw\R1_8_5 
+运行时间:297217ms[costs=44612.87456671555][routes=77] 
+ s-cvrptw\R1_8_6 
+运行时间:168035ms[costs=40499.37739301217][routes=77] 
+ s-cvrptw\R1_8_7 
+运行时间:113689ms[costs=43864.752842332906][routes=72] 
+ s-cvrptw\R1_8_8 
+运行时间:113677ms[costs=39751.5507549591][routes=72] 
+ s-cvrptw\R1_8_9 
+运行时间:122369ms[costs=41342.00802226066][routes=77] 
+ s-cvrptw\R21010 
+运行时间:157230ms[costs=36160.084957523104][routes=22] 
+ s-cvrptw\R210_1 
+运行时间:192016ms[costs=42671.94825468969][routes=32] 
+ s-cvrptw\R210_2 
+运行时间:217128ms[costs=36197.648873419836][routes=27] 
+ s-cvrptw\R210_3 
+运行时间:214014ms[costs=28827.738571734233][routes=23] 
+ s-cvrptw\R210_4 
+运行时间:231655ms[costs=21122.605591821848][routes=21] 
+ s-cvrptw\R210_5 
+运行时间:184150ms[costs=40292.485960372076][routes=26] 
+ s-cvrptw\R210_6 
+运行时间:208468ms[costs=34958.32802318417][routes=24] 
+ s-cvrptw\R210_7 
+运行时间:208736ms[costs=29373.21005471357][routes=22] 
+ s-cvrptw\R210_8 
+运行时间:227850ms[costs=21403.02183112514][routes=20] 
+ s-cvrptw\R210_9 
+运行时间:169815ms[costs=38590.15796050075][routes=23] 
+ s-cvrptw\R2_210 
+运行时间:10907ms[costs=2694.58379037383][routes=6] 
+ s-cvrptw\R2_2_1 
+运行时间:9098ms[costs=3814.5798706627697][routes=8] 
+ s-cvrptw\R2_2_2 
+运行时间:10867ms[costs=3192.1017404936056][routes=8] 
+ s-cvrptw\R2_2_3 
+运行时间:11821ms[costs=2694.2922044126085][routes=7] 
+ s-cvrptw\R2_2_4 
+运行时间:12515ms[costs=2088.300634653019][routes=4] 
+ s-cvrptw\R2_2_5 
+运行时间:9547ms[costs=3187.4530346071147][routes=8] 
+ s-cvrptw\R2_2_6 
+运行时间:10824ms[costs=2831.104130201588][routes=7] 
+ s-cvrptw\R2_2_7 
+运行时间:11730ms[costs=2501.690711444859][routes=5] 
+ s-cvrptw\R2_2_8 
+运行时间:12731ms[costs=1903.1248200013727][routes=4] 
+ s-cvrptw\R2_2_9 
+运行时间:9861ms[costs=3141.933722428111][routes=6] 
+ s-cvrptw\R2_410 
+运行时间:32895ms[costs=6350.153457716475][routes=9] 
+ s-cvrptw\R2_4_1 
+运行时间:32622ms[costs=8520.671698046403][routes=15] 
+ s-cvrptw\R2_4_2 
+运行时间:37312ms[costs=7479.219620133774][routes=12] 
+ s-cvrptw\R2_4_3 
+运行时间:42347ms[costs=6057.375172066265][routes=12] 
+ s-cvrptw\R2_4_4 
+运行时间:41726ms[costs=4622.4243271936375][routes=8] 
+ s-cvrptw\R2_4_5 
+运行时间:31974ms[costs=7605.732637432365][routes=11] 
+ s-cvrptw\R2_4_6 
+运行时间:36232ms[costs=6609.626028164436][routes=10] 
+ s-cvrptw\R2_4_7 
+运行时间:40130ms[costs=5492.373235833293][routes=9] 
+ s-cvrptw\R2_4_8 
+运行时间:41527ms[costs=4664.013094021545][routes=8] 
+ s-cvrptw\R2_4_9 
+运行时间:32770ms[costs=6984.705597461385][routes=10] 
+ s-cvrptw\R2_610 
+运行时间:67640ms[costs=13534.59008440343][routes=14] 
+ s-cvrptw\R2_6_1 
+运行时间:69781ms[costs=17864.26270297684][routes=19] 
+ s-cvrptw\R2_6_2 
+运行时间:80310ms[costs=15271.122946772488][routes=17] 
+ s-cvrptw\R2_6_3 
+运行时间:91481ms[costs=12014.681896270462][routes=16] 
+ s-cvrptw\R2_6_4 
+运行时间:95879ms[costs=9181.465356908842][routes=13] 
+ s-cvrptw\R2_6_5 
+运行时间:68860ms[costs=15764.525777876466][routes=17] 
+ s-cvrptw\R2_6_6 
+运行时间:75181ms[costs=13629.303654579313][routes=14] 
+ s-cvrptw\R2_6_7 
+运行时间:82495ms[costs=11496.22656151928][routes=14] 
+ s-cvrptw\R2_6_8 
+运行时间:86311ms[costs=8469.86013555638][routes=12] 
+ s-cvrptw\R2_6_9 
+运行时间:68134ms[costs=14980.39793741231][routes=14] 
+ s-cvrptw\R2_810 
+运行时间:113552ms[costs=23484.435648752155][routes=20] 
+ s-cvrptw\R2_8_1 
+运行时间:121691ms[costs=28620.872693950376][routes=24] 
+ s-cvrptw\R2_8_2 
+运行时间:143072ms[costs=24283.965102995186][routes=23] 
+ s-cvrptw\R2_8_3 
+运行时间:150431ms[costs=20249.190034454674][routes=19] 
+ s-cvrptw\R2_8_4 
+运行时间:155798ms[costs=14948.738641724218][routes=17] 
+ s-cvrptw\R2_8_5 
+运行时间:114105ms[costs=26394.626246748012][routes=21] 
+ s-cvrptw\R2_8_6 
+运行时间:131092ms[costs=23281.12576432094][routes=20] 
+ s-cvrptw\R2_8_7 
+运行时间:147346ms[costs=19535.347849449437][routes=17] 
+ s-cvrptw\R2_8_8 
+运行时间:153861ms[costs=14691.687624831655][routes=17] 
+ s-cvrptw\R2_8_9 
+运行时间:116026ms[costs=24477.84565347431][routes=20] 
+ s-cvrptw\RC11010 
+运行时间:205314ms[costs=56671.52951894752][routes=95] 
+ s-cvrptw\RC110_1 
+运行时间:230404ms[costs=56257.824994819595][routes=97] 
+ s-cvrptw\RC110_2 
+运行时间:213935ms[costs=55613.14582172821][routes=90] 
+ s-cvrptw\RC110_3 
+运行时间:207498ms[costs=58453.00690827308][routes=94] 
+ s-cvrptw\RC110_4 
+运行时间:182478ms[costs=57033.5071943868][routes=90] 
+ s-cvrptw\RC110_5 
+运行时间:220821ms[costs=60630.4922860624][routes=100] 
+ s-cvrptw\RC110_6 
+运行时间:234602ms[costs=60124.54130942996][routes=98] 
+ s-cvrptw\RC110_7 
+运行时间:187684ms[costs=62271.047753522864][routes=91] 
+ s-cvrptw\RC110_8 
+运行时间:189456ms[costs=55757.26946569499][routes=98] 
+ s-cvrptw\RC110_9 
+运行时间:204217ms[costs=57632.994935693016][routes=94] 
+ s-cvrptw\RC1_210 
+运行时间:9400ms[costs=3608.57438436086][routes=20] 
+ s-cvrptw\RC1_2_1 
+运行时间:10136ms[costs=3957.9285158469224][routes=22] 
+ s-cvrptw\RC1_2_2 
+运行时间:9544ms[costs=3669.473354366444][routes=20] 
+ s-cvrptw\RC1_2_3 
+运行时间:9904ms[costs=3518.0241068311498][routes=20] 
+ s-cvrptw\RC1_2_4 
+运行时间:9452ms[costs=3245.6882818747335][routes=19] 
+ s-cvrptw\RC1_2_5 
+运行时间:10316ms[costs=3826.49466222778][routes=21] 
+ s-cvrptw\RC1_2_6 
+运行时间:9542ms[costs=3887.5193927970317][routes=20] 
+ s-cvrptw\RC1_2_7 
+运行时间:9579ms[costs=3693.1452413507786][routes=20] 
+ s-cvrptw\RC1_2_8 
+运行时间:9060ms[costs=3706.069630707438][routes=19] 
+ s-cvrptw\RC1_2_9 
+运行时间:9371ms[costs=3776.268960947995][routes=20] 
+ s-cvrptw\RC1_410 
+运行时间:29163ms[costs=10437.939889327528][routes=37] 
+ s-cvrptw\RC1_4_1 
+运行时间:36476ms[costs=10919.011177069964][routes=44] 
+ s-cvrptw\RC1_4_2 
+运行时间:37269ms[costs=10062.360867858006][routes=42] 
+ s-cvrptw\RC1_4_3 
+运行时间:30080ms[costs=10351.300660690898][routes=37] 
+ s-cvrptw\RC1_4_4 
+运行时间:34803ms[costs=8738.961549539828][routes=38] 
+ s-cvrptw\RC1_4_5 
+运行时间:37887ms[costs=10111.01758938615][routes=42] 
+ s-cvrptw\RC1_4_6 
+运行时间:37513ms[costs=9908.188899380622][routes=41] 
+ s-cvrptw\RC1_4_7 
+运行时间:37842ms[costs=9841.121874493023][routes=42] 
+ s-cvrptw\RC1_4_8 
+运行时间:36117ms[costs=9597.831770457624][routes=40] 
+ s-cvrptw\RC1_4_9 
+运行时间:35462ms[costs=9615.930240272004][routes=38] 
+ s-cvrptw\RC1_610 
+运行时间:61094ms[costs=23102.516193361575][routes=57] 
+ s-cvrptw\RC1_6_1 
+运行时间:82922ms[costs=22716.952277020508][routes=68] 
+ s-cvrptw\RC1_6_2 
+运行时间:78710ms[costs=22525.60078953056][routes=69] 
+ s-cvrptw\RC1_6_3 
+运行时间:75809ms[costs=20769.314539309387][routes=59] 
+ s-cvrptw\RC1_6_4 
+运行时间:67789ms[costs=20169.42565472063][routes=55] 
+ s-cvrptw\RC1_6_5 
+运行时间:83022ms[costs=22537.731936821718][routes=64] 
+ s-cvrptw\RC1_6_6 
+运行时间:83263ms[costs=21189.23934762916][routes=62] 
+ s-cvrptw\RC1_6_7 
+运行时间:68765ms[costs=23149.11424054256][routes=56] 
+ s-cvrptw\RC1_6_8 
+运行时间:74248ms[costs=20389.065131381947][routes=59] 
+ s-cvrptw\RC1_6_9 
+运行时间:71532ms[costs=20412.883706277407][routes=59] 
+ s-cvrptw\RC1_810 
+运行时间:123125ms[costs=35989.70341243062][routes=77] 
+ s-cvrptw\RC1_8_1 
+运行时间:153339ms[costs=39434.147500507526][routes=89] 
+ s-cvrptw\RC1_8_2 
+运行时间:138233ms[costs=37448.96283036616][routes=82] 
+ s-cvrptw\RC1_8_3 
+运行时间:137934ms[costs=35901.65210555216][routes=79] 
+ s-cvrptw\RC1_8_4 
+运行时间:116162ms[costs=37432.11811438504][routes=73] 
+ s-cvrptw\RC1_8_5 
+运行时间:141956ms[costs=38132.14351295036][routes=88] 
+ s-cvrptw\RC1_8_6 
+运行时间:149319ms[costs=38429.223430183134][routes=83] 
+ s-cvrptw\RC1_8_7 
+运行时间:141485ms[costs=36603.34951714873][routes=82] 
+ s-cvrptw\RC1_8_8 
+运行时间:127839ms[costs=36709.89707121126][routes=78] 
+ s-cvrptw\RC1_8_9 
+运行时间:128750ms[costs=36598.06576095391][routes=77] 
+ s-cvrptw\RC21010 
+运行时间:174501ms[costs=26273.577853609022][routes=20] 
+ s-cvrptw\RC210_1 
+运行时间:193872ms[costs=31800.55863520184][routes=32] 
+ s-cvrptw\RC210_2 
+运行时间:214449ms[costs=32287.718144172257][routes=24] 
+ s-cvrptw\RC210_3 
+运行时间:220894ms[costs=25023.123667016618][routes=18] 
+ s-cvrptw\RC210_4 
+运行时间:235331ms[costs=18122.726193453058][routes=22] 
+ s-cvrptw\RC210_5 
+运行时间:180088ms[costs=29284.551336494536][routes=29] 
+ s-cvrptw\RC210_6 
+运行时间:190993ms[costs=29295.608905901212][routes=26] 
+ s-cvrptw\RC210_7 
+运行时间:198144ms[costs=29250.375107137475][routes=26] 
+ s-cvrptw\RC210_8 
+运行时间:188705ms[costs=27879.609909430914][routes=24] 
+ s-cvrptw\RC210_9 
+运行时间:182435ms[costs=27000.770696215684][routes=21] 
+ s-cvrptw\RC2_210 
+运行时间:11128ms[costs=2098.8117977602724][routes=5] 
+ s-cvrptw\RC2_2_1 
+运行时间:9117ms[costs=2993.507155920167][routes=8] 
+ s-cvrptw\RC2_2_2 
+运行时间:10447ms[costs=2603.983314308058][routes=8] 
+ s-cvrptw\RC2_2_3 
+运行时间:11646ms[costs=2324.9233555509145][routes=7] 
+ s-cvrptw\RC2_2_4 
+运行时间:12547ms[costs=1976.5778148121547][routes=6] 
+ s-cvrptw\RC2_2_5 
+运行时间:10209ms[costs=2638.531718902312][routes=8] 
+ s-cvrptw\RC2_2_6 
+运行时间:9635ms[costs=2594.941429368908][routes=6] 
+ s-cvrptw\RC2_2_7 
+运行时间:10131ms[costs=2426.576615344576][routes=6] 
+ s-cvrptw\RC2_2_8 
+运行时间:10593ms[costs=2310.724398699148][routes=6] 
+ s-cvrptw\RC2_2_9 
+运行时间:10423ms[costs=2292.2762821200968][routes=5] 
+ s-cvrptw\RC2_410 
+运行时间:36695ms[costs=4955.508738832746][routes=9] 
+ s-cvrptw\RC2_4_1 
+运行时间:33759ms[costs=6611.27874278418][routes=17] 
+ s-cvrptw\RC2_4_2 
+运行时间:39161ms[costs=5889.789797395891][routes=15] 
+ s-cvrptw\RC2_4_3 
+运行时间:43496ms[costs=5117.24704987506][routes=12] 
+ s-cvrptw\RC2_4_4 
+运行时间:43397ms[costs=3921.8361737778487][routes=9] 
+ s-cvrptw\RC2_4_5 
+运行时间:36083ms[costs=5852.4003095645885][routes=14] 
+ s-cvrptw\RC2_4_6 
+运行时间:34924ms[costs=5859.619373147796][routes=12] 
+ s-cvrptw\RC2_4_7 
+运行时间:36641ms[costs=5640.130686632475][routes=12] 
+ s-cvrptw\RC2_4_8 
+运行时间:37334ms[costs=5105.474994150343][routes=10] 
+ s-cvrptw\RC2_4_9 
+运行时间:34331ms[costs=5032.713240222459][routes=10] 
+ s-cvrptw\RC2_610 
+运行时间:73331ms[costs=10215.019339790166][routes=14] 
+ s-cvrptw\RC2_6_1 
+运行时间:69387ms[costs=12966.413045462363][routes=26] 
+ s-cvrptw\RC2_6_2 
+运行时间:83204ms[costs=11716.337369478086][routes=20] 
+ s-cvrptw\RC2_6_3 
+运行时间:88426ms[costs=10101.30789114725][routes=16] 
+ s-cvrptw\RC2_6_4 
+运行时间:97988ms[costs=7815.267456313414][routes=14] 
+ s-cvrptw\RC2_6_5 
+运行时间:75285ms[costs=12458.128126003614][routes=22] 
+ s-cvrptw\RC2_6_6 
+运行时间:69652ms[costs=13055.8550106532][routes=15] 
+ s-cvrptw\RC2_6_7 
+运行时间:73206ms[costs=11985.635813666991][routes=15] 
+ s-cvrptw\RC2_6_8 
+运行时间:76843ms[costs=11186.553183527458][routes=16] 
+ s-cvrptw\RC2_6_9 
+运行时间:74571ms[costs=10814.465310954763][routes=15] 
+ s-cvrptw\RC2_810 
+运行时间:125302ms[costs=16516.40162958063][routes=18] 
+ s-cvrptw\RC2_8_1 
+运行时间:117382ms[costs=21402.951788186205][routes=28] 
+ s-cvrptw\RC2_8_2 
+运行时间:133613ms[costs=19271.706014191353][routes=26] 
+ s-cvrptw\RC2_8_3 
+运行时间:138261ms[costs=16568.407044625983][routes=23] 
+ s-cvrptw\RC2_8_4 
+运行时间:174183ms[costs=12932.183725273404][routes=18] 
+ s-cvrptw\RC2_8_5 
+运行时间:120900ms[costs=20771.666487300776][routes=25] 
+ s-cvrptw\RC2_8_6 
+运行时间:125367ms[costs=19539.083903124][routes=24] 
+ s-cvrptw\RC2_8_7 
+运行时间:120090ms[costs=18805.70551794079][routes=21] 
+ s-cvrptw\RC2_8_8 
+运行时间:130143ms[costs=18013.312783539328][routes=21] 
+ s-cvrptw\RC2_8_9 
+运行时间:121506ms[costs=17499.40537187786][routes=18] 
+ solomon_100\C101
+运行时间:2994ms[costs=828.9368669428342][routes=10] 
+ solomon_100\C102
+运行时间:2940ms[costs=828.9368669428342][routes=10] 
+ solomon_100\C103
+运行时间:3002ms[costs=828.0648821980842][routes=10] 
+ solomon_100\C104
+运行时间:3049ms[costs=859.4696155553618][routes=10] 
+ solomon_100\C105
+运行时间:2794ms[costs=828.9368669428342][routes=10] 
+ solomon_100\C106
+运行时间:2775ms[costs=828.9368669428342][routes=10] 
+ solomon_100\C107
+运行时间:2776ms[costs=828.9368669428342][routes=10] 
+ solomon_100\C108
+运行时间:2878ms[costs=828.9368669428342][routes=10] 
+ solomon_100\C109
+运行时间:3049ms[costs=856.4904129034942][routes=10] 
+ solomon_100\C201
+运行时间:2563ms[costs=591.5565566715015][routes=3] 
+ solomon_100\C202
+运行时间:2885ms[costs=591.5565566715015][routes=3] 
+ solomon_100\C203
+运行时间:3142ms[costs=591.1734427806316][routes=3] 
+ solomon_100\C204
+运行时间:3420ms[costs=590.5987456679449][routes=3] 
+ solomon_100\C205
+运行时间:2688ms[costs=588.8759626534238][routes=3] 
+ solomon_100\C206
+运行时间:2801ms[costs=588.4928487625539][routes=3] 
+ solomon_100\C207
+运行时间:2896ms[costs=588.2863214262126][routes=3] 
+ solomon_100\C208
+运行时间:2933ms[costs=588.3238006573996][routes=3] 
+ solomon_100\R101
+运行时间:3991ms[costs=1710.9275741901133][routes=20] 
+ solomon_100\R102
+运行时间:4149ms[costs=1504.656388422221][routes=18] 
+ solomon_100\R103
+运行时间:3818ms[costs=1238.6565122833258][routes=14] 
+ solomon_100\R104
+运行时间:3644ms[costs=1036.0370920694108][routes=11] 
+ solomon_100\R105
+运行时间:3808ms[costs=1419.1577739929446][routes=16] 
+ solomon_100\R106
+运行时间:3771ms[costs=1284.1267082662216][routes=14] 
+ solomon_100\R107
+运行时间:3456ms[costs=1154.8106397684219][routes=11] 
+ solomon_100\R108
+运行时间:3721ms[costs=1005.8447724375297][routes=11] 
+ solomon_100\R109
+运行时间:3794ms[costs=1182.120817613481][routes=13] 
+ solomon_100\R110
+运行时间:3880ms[costs=1200.1168462791995][routes=12] 
+ solomon_100\R111
+运行时间:3726ms[costs=1108.1881609135642][routes=12] 
+ solomon_100\R112
+运行时间:3822ms[costs=1055.4573225558104][routes=11] 
+ solomon_100\R201
+运行时间:2971ms[costs=1200.670400281197][routes=7] 
+ solomon_100\R202
+运行时间:3168ms[costs=1095.0839382969407][routes=5] 
+ solomon_100\R203
+运行时间:3395ms[costs=915.232845308138][routes=5] 
+ solomon_100\R204
+运行时间:3631ms[costs=737.3789721474021][routes=5] 
+ solomon_100\R205
+运行时间:3080ms[costs=962.8159461324649][routes=5] 
+ solomon_100\R206
+运行时间:3312ms[costs=900.0293990573595][routes=4] 
+ solomon_100\R207
+运行时间:3539ms[costs=819.7136741119363][routes=4] 
+ solomon_100\R208
+运行时间:3654ms[costs=738.654248197746][routes=3] 
+ solomon_100\R209
+运行时间:3300ms[costs=865.0250252319952][routes=5] 
+ solomon_100\R210
+运行时间:3301ms[costs=928.5814285405025][routes=5] 
+ solomon_100\R211
+运行时间:3624ms[costs=841.5152295437687][routes=3] 
+ solomon_100\RC101
+运行时间:3799ms[costs=1730.0533494074195][routes=16] 
+ solomon_100\RC102
+运行时间:3793ms[costs=1596.884140263242][routes=15] 
+ solomon_100\RC103
+运行时间:3719ms[costs=1364.7647089361496][routes=12] 
+ solomon_100\RC104
+运行时间:3477ms[costs=1231.6219075744334][routes=11] 
+ solomon_100\RC105
+运行时间:3934ms[costs=1635.4443926393292][routes=16] 
+ solomon_100\RC106
+运行时间:3815ms[costs=1531.3710339549032][routes=14] 
+ solomon_100\RC107
+运行时间:3721ms[costs=1486.2084432871086][routes=13] 
+ solomon_100\RC108
+运行时间:3770ms[costs=1227.1105667606757][routes=12] 
+ solomon_100\RC201
+运行时间:2976ms[costs=1314.3627621106173][routes=7] 
+ solomon_100\RC202
+运行时间:3181ms[costs=1158.710755520126][routes=6] 
+ solomon_100\RC203
+运行时间:3317ms[costs=957.0798429686419][routes=4] 
+ solomon_100\RC204
+运行时间:3496ms[costs=812.9114379164752][routes=3] 
+ solomon_100\RC205
+运行时间:3202ms[costs=1199.347707576008][routes=7] 
+ solomon_100\RC206
+运行时间:3072ms[costs=1088.4709199470524][routes=5] 
+ solomon_100\RC207
+运行时间:3271ms[costs=1013.9982446741482][routes=5] 
+ solomon_100\RC208
+运行时间:3555ms[costs=823.8026092398732][routes=4] 
+ solomon_25\C101
+运行时间:428ms[costs=191.8136197786562][routes=3] 
+ solomon_25\C102
+运行时间:322ms[costs=190.73762936185082][routes=3] 
+ solomon_25\C103
+运行时间:359ms[costs=190.73762936185082][routes=3] 
+ solomon_25\C104
+运行时间:357ms[costs=187.44945538505976][routes=3] 
+ solomon_25\C105
+运行时间:338ms[costs=191.8136197786562][routes=3] 
+ solomon_25\C106
+运行时间:326ms[costs=191.8136197786562][routes=3] 
+ solomon_25\C107
+运行时间:326ms[costs=191.8136197786562][routes=3] 
+ solomon_25\C108
+运行时间:338ms[costs=191.81361977865623][routes=3] 
+ solomon_25\C109
+运行时间:337ms[costs=191.81361977865623][routes=3] 
+ solomon_25\C201
+运行时间:325ms[costs=215.54256527689375][routes=2] 
+ solomon_25\C202
+运行时间:382ms[costs=215.54256527689375][routes=2] 
+ solomon_25\C203
+运行时间:375ms[costs=215.54256527689375][routes=2] 
+ solomon_25\C204
+运行时间:375ms[costs=215.33603794055244][routes=2] 
+ solomon_25\C205
+运行时间:345ms[costs=215.54256527689375][routes=2] 
+ solomon_25\C206
+运行时间:366ms[costs=215.54256527689375][routes=2] 
+ solomon_25\C207
+运行时间:358ms[costs=235.4136257002852][routes=2] 
+ solomon_25\C208
+运行时间:349ms[costs=215.37351717173905][routes=2] 
+ solomon_25\R101
+运行时间:425ms[costs=618.3299155462685][routes=8] 
+ solomon_25\R102
+运行时间:429ms[costs=548.1078177906315][routes=7] 
+ solomon_25\R103
+运行时间:396ms[costs=455.6982422498318][routes=5] 
+ solomon_25\R104
+运行时间:392ms[costs=417.9612285190715][routes=4] 
+ solomon_25\R105
+运行时间:399ms[costs=531.5386420627178][routes=6] 
+ solomon_25\R106
+运行时间:385ms[costs=466.4802121580665][routes=5] 
+ solomon_25\R107
+运行时间:397ms[costs=440.74281729981413][routes=5] 
+ solomon_25\R108
+运行时间:378ms[costs=398.29470724433315][routes=4] 
+ solomon_25\R109
+运行时间:391ms[costs=456.0170228123393][routes=5] 
+ solomon_25\R110
+运行时间:383ms[costs=445.80282945461795][routes=4] 
+ solomon_25\R111
+运行时间:394ms[costs=440.04794954820113][routes=5] 
+ solomon_25\R112
+运行时间:382ms[costs=394.1013161095329][routes=4] 
+ solomon_25\R201
+运行时间:370ms[costs=464.374692678404][routes=4] 
+ solomon_25\R202
+运行时间:353ms[costs=418.5878495977739][routes=3] 
+ solomon_25\R203
+运行时间:351ms[costs=418.20751892676566][routes=2] 
+ solomon_25\R204
+运行时间:370ms[costs=358.5780034878713][routes=2] 
+ solomon_25\R205
+运行时间:356ms[costs=401.50313873672883][routes=3] 
+ solomon_25\R206
+运行时间:372ms[costs=375.4834315569335][routes=3] 
+ solomon_25\R207
+运行时间:367ms[costs=363.2753170209267][routes=2] 
+ solomon_25\R208
+运行时间:391ms[costs=329.3335010548145][routes=1] 
+ solomon_25\R209
+运行时间:355ms[costs=373.0807295992115][routes=2] 
+ solomon_25\R210
+运行时间:351ms[costs=414.4623645632338][routes=2] 
+ solomon_25\R211
+运行时间:393ms[costs=361.68655327051][routes=1] 
+ solomon_25\RC101
+运行时间:362ms[costs=462.15594675837383][routes=4] 
+ solomon_25\RC102
+运行时间:321ms[costs=352.74426976053843][routes=3] 
+ solomon_25\RC103
+运行时间:328ms[costs=333.9186364366017][routes=3] 
+ solomon_25\RC104
+运行时间:332ms[costs=307.1390025908645][routes=3] 
+ solomon_25\RC105
+运行时间:359ms[costs=412.3765878946542][routes=4] 
+ solomon_25\RC106
+运行时间:323ms[costs=346.50544606829146][routes=3] 
+ solomon_25\RC107
+运行时间:344ms[costs=298.94984154867427][routes=3] 
+ solomon_25\RC108
+运行时间:343ms[costs=294.9944395178464][routes=3] 
+ solomon_25\RC201
+运行时间:321ms[costs=361.24102639278726][routes=3] 
+ solomon_25\RC202
+运行时间:346ms[costs=338.8238920041662][routes=3] 
+ solomon_25\RC203
+运行时间:351ms[costs=356.2197580328389][routes=2] 
+ solomon_25\RC204
+运行时间:360ms[costs=313.3160071849801][routes=2] 
+ solomon_25\RC205
+运行时间:342ms[costs=338.92940106418035][routes=3] 
+ solomon_25\RC206
+运行时间:339ms[costs=344.9284056950184][routes=2] 
+ solomon_25\RC207
+运行时间:361ms[costs=311.92755276839364][routes=2] 
+ solomon_25\RC208
+运行时间:359ms[costs=269.56581931466394][routes=2] 
+ solomon_50\C101
+运行时间:882ms[costs=363.246800411591][routes=5] 
+ solomon_50\C102
+运行时间:891ms[costs=362.1708099947856][routes=5] 
+ solomon_50\C103
+运行时间:963ms[costs=362.17080999478566][routes=5] 
+ solomon_50\C104
+运行时间:1003ms[costs=379.8384554692402][routes=5] 
+ solomon_50\C105
+运行时间:888ms[costs=363.246800411591][routes=5] 
+ solomon_50\C106
+运行时间:870ms[costs=363.246800411591][routes=5] 
+ solomon_50\C107
+运行时间:911ms[costs=363.246800411591][routes=5] 
+ solomon_50\C108
+运行时间:907ms[costs=363.24680041159104][routes=5] 
+ solomon_50\C109
+运行时间:954ms[costs=363.24680041159104][routes=5] 
+ solomon_50\C201
+运行时间:949ms[costs=361.7965059684442][routes=3] 
+ solomon_50\C202
+运行时间:1047ms[costs=361.7965059684442][routes=3] 
+ solomon_50\C203
+运行时间:1112ms[costs=361.41339207757426][routes=3] 
+ solomon_50\C204
+运行时间:1147ms[costs=351.7173059186551][routes=2] 
+ solomon_50\C205
+运行时间:983ms[costs=361.4133920775743][routes=3] 
+ solomon_50\C206
+运行时间:1032ms[costs=361.41339207757426][routes=3] 
+ solomon_50\C207
+运行时间:1044ms[costs=361.20686474123295][routes=3] 
+ solomon_50\C208
+运行时间:992ms[costs=352.122954926187][routes=2] 
+ solomon_50\R101
+运行时间:1220ms[costs=1055.0820379110341][routes=12] 
+ solomon_50\R102
+运行时间:1355ms[costs=918.4267345582158][routes=12] 
+ solomon_50\R103
+运行时间:1222ms[costs=780.7688560366138][routes=9] 
+ solomon_50\R104
+运行时间:1200ms[costs=631.5823615331598][routes=6] 
+ solomon_50\R105
+运行时间:1216ms[costs=919.3631450806198][routes=10] 
+ solomon_50\R106
+运行时间:1310ms[costs=806.7743571613657][routes=8] 
+ solomon_50\R107
+运行时间:1143ms[costs=713.5011685531535][routes=7] 
+ solomon_50\R108
+运行时间:1145ms[costs=624.7983843923935][routes=6] 
+ solomon_50\R109
+运行时间:1150ms[costs=793.1163918456286][routes=8] 
+ solomon_50\R110
+运行时间:1208ms[costs=720.0281187970419][routes=8] 
+ solomon_50\R111
+运行时间:1242ms[costs=732.995169697566][routes=7] 
+ solomon_50\R112
+运行时间:1148ms[costs=640.0964774287593][routes=6] 
+ solomon_50\R201
+运行时间:981ms[costs=794.337672660955][routes=6] 
+ solomon_50\R202
+运行时间:1000ms[costs=715.3595898979025][routes=4] 
+ solomon_50\R203
+运行时间:1082ms[costs=610.7473364337908][routes=4] 
+ solomon_50\R204
+运行时间:1141ms[costs=511.07293887553334][routes=2] 
+ solomon_50\R205
+运行时间:1001ms[costs=712.0181341744222][routes=4] 
+ solomon_50\R206
+运行时间:1055ms[costs=649.9650233518825][routes=3] 
+ solomon_50\R207
+运行时间:1081ms[costs=586.8144526112249][routes=3] 
+ solomon_50\R208
+运行时间:1110ms[costs=498.3725282889465][routes=2] 
+ solomon_50\R209
+运行时间:1036ms[costs=636.2404401208111][routes=3] 
+ solomon_50\R210
+运行时间:1039ms[costs=672.9070825354939][routes=3] 
+ solomon_50\R211
+运行时间:1129ms[costs=577.5224975009781][routes=3] 
+ solomon_50\RC101
+运行时间:1148ms[costs=958.5918888496483][routes=9] 
+ solomon_50\RC102
+运行时间:1091ms[costs=829.8449367375883][routes=7] 
+ solomon_50\RC103
+运行时间:982ms[costs=713.1275563609418][routes=6] 
+ solomon_50\RC104
+运行时间:902ms[costs=548.1355410285825][routes=5] 
+ solomon_50\RC105
+运行时间:1125ms[costs=856.9667731409946][routes=8] 
+ solomon_50\RC106
+运行时间:968ms[costs=725.4479772459068][routes=6] 
+ solomon_50\RC107
+运行时间:964ms[costs=654.4891340466824][routes=6] 
+ solomon_50\RC108
+运行时间:943ms[costs=599.1705707234194][routes=6] 
+ solomon_50\RC201
+运行时间:961ms[costs=686.3116471261382][routes=5] 
+ solomon_50\RC202
+运行时间:1041ms[costs=615.0371373601768][routes=5] 
+ solomon_50\RC203
+运行时间:1071ms[costs=556.496834339533][routes=4] 
+ solomon_50\RC204
+运行时间:1096ms[costs=444.9661771430584][routes=3] 
+ solomon_50\RC205
+运行时间:1021ms[costs=631.9801869236735][routes=5] 
+ solomon_50\RC206
+运行时间:1017ms[costs=655.9353674395571][routes=4] 
+ solomon_50\RC207
+运行时间:1042ms[costs=559.9060228599728][routes=4] 
+ solomon_50\RC208
+运行时间:1088ms[costs=505.84621086945674][routes=2] 

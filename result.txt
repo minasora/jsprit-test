@@ -1,0 +1,56 @@
+D:\java learn\jsprit-master\input\s-cvrptw\C1_2_1.TXT
+运行时间:6288ms[costs=3262.9003478147097][routes=24][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\C1_2_1.TXT
+运行时间:2608ms[costs=2872.8737407187386][routes=21][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\C1_2_1.TXT
+运行时间:4040ms[costs=2854.1798244487954][routes=21][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\C1_2_1.TXT
+运行时间:5498ms[costs=2811.857235883552][routes=20][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\C1_2_1.TXT
+运行时间:6960ms[costs=2811.857235883552][routes=20][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\C1_2_1.TXT
+运行时间:8439ms[costs=2811.857235883552][routes=20][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\C1_2_1.TXT
+运行时间:9896ms[costs=2811.857235883552][routes=20][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\RC21010.TXT
+运行时间:31190ms[costs=35792.20791541028][routes=20][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\RC21010.TXT
+运行时间:55489ms[costs=27132.479076757565][routes=20][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\RC21010.TXT
+运行时间:81116ms[costs=26985.29706619333][routes=20][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\RC21010.TXT
+运行时间:104458ms[costs=26840.74933460756][routes=20][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\RC21010.TXT
+运行时间:130209ms[costs=26422.672443963515][routes=20][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\RC21010.TXT
+运行时间:152144ms[costs=26273.577853609022][routes=20][unassigned=0]
+D:\java learn\jsprit-master\input\s-cvrptw\RC21010.TXT
+运行时间:174306ms[costs=26273.577853609022][routes=20][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_100\RC208.txt
+运行时间:297ms[costs=1117.9825983682297][routes=3][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_100\RC208.txt
+运行时间:806ms[costs=1116.8861072425025][routes=4][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_100\RC208.txt
+运行时间:1351ms[costs=910.7596856245951][routes=4][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_100\RC208.txt
+运行时间:1878ms[costs=885.8412873554869][routes=4][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_100\RC208.txt
+运行时间:2404ms[costs=875.6815702685376][routes=4][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_100\RC208.txt
+运行时间:2980ms[costs=854.3752258260365][routes=4][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_100\RC208.txt
+运行时间:3512ms[costs=823.8026092398732][routes=4][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_25\RC101.txt
+运行时间:146ms[costs=462.15594675837383][routes=4][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_25\RC101.txt
+运行时间:78ms[costs=462.15594675837383][routes=4][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_25\RC101.txt
+运行时间:130ms[costs=462.15594675837383][routes=4][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_25\RC101.txt
+运行时间:193ms[costs=462.15594675837383][routes=4][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_25\RC101.txt
+运行时间:235ms[costs=462.15594675837383][routes=4][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_25\RC101.txt
+运行时间:301ms[costs=462.15594675837383][routes=4][unassigned=0]
+D:\java learn\jsprit-master\input\solomon_25\RC101.txt
+运行时间:351ms[costs=462.15594675837383][routes=4][unassigned=0]
