@@ -2,6 +2,23 @@ jsprit
 ======
 [![Build Status](https://travis-ci.org/graphhopper/jsprit.svg?branch=master)](https://travis-ci.org/graphhopper/jsprit)
 
+
+
+
+------
+
+#### Jsprit的解决VRPTW测试代码使用方法
+
+clone到本地后，可以看到测试样例位于jsprit-master\jsprit-instances\instances中。
+
+在文件夹jsprit-master\jsprit-examples\src\main\java\com\graphhopper\jsprit\examples下有测试文件的代码，通过修改不同的输入文件，即可以进行测试。
+
+运行test.java即可将结果输入进txt文件中，在项目文件夹下获得result.txt。
+
+-------
+
+
+
 jsprit is a java based, open source toolkit for solving rich [Traveling Salesman Problems(TSP)](http://en.wikipedia.org/wiki/Travelling_salesman_problem") and [Vehicle Routing Problems(VRP)](http://neo.lcc.uma.es/vrp/vehicle-routing-problem/).
 It is lightweight, flexible and easy-to-use, and based on a single all-purpose [meta-heuristic](../docs/Meta-Heuristic.md) currently solving
 
